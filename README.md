@@ -1,3 +1,2 @@
 # calculator-first
-This is my first project
-Hello dost
+This is my first project.
